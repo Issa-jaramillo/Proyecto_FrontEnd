@@ -8,7 +8,7 @@
 //}
 
 // tailwind.config.js
-module.exports = {
+export default  {
   content: [
     './src/**/*.{html,js,jsx,ts,tsx}', // Esto incluye todos los archivos en la carpeta src
     './public/index.html',
