@@ -10,7 +10,7 @@ export const PROYECTS = [
         description:
           "",
        technologies: ["html"] ,
-        link: ""
+        link: "https://github.com/Issa-jaramillo"
       },
       {
         title: "Drivers App",
@@ -18,7 +18,7 @@ export const PROYECTS = [
         description:
           "Aplicación que tenía como objetivo la construcción de una Single Page Application con funcionalidades de búsqueda,filtrados, ordenamiento y creación para gestionar datos de conductores de manera eficiente.",
         technologies: ["html"],
-        link: "https://github.com/ivanaspinoso/cr-pi-drivers-main"
+        link: "https://github.com/Issa-jaramillo"
       },
       {
         title: "Portfolio Diseño UX UI",
@@ -26,7 +26,7 @@ export const PROYECTS = [
         description:
           "Portfolio personal de diseño UX UI mostrando los proyectos, mis habilidades, y contacto.",
         technologies: ["Figma"],
-        link: ""
+        link: "https://github.com/Issa-jaramillo"
       },
       
 ];
